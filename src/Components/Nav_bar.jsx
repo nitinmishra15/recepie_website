@@ -4,7 +4,7 @@ const Nav_bar = () => {
   return (
     <div className='Nav'>
          <div className='nav_img'>
-            {/* <img src='https://up.yimg.com/ib/th?id=OIP.rHnTXUOFDRUQHEJ0hovG-gHaFs&pid=Api&rs=1&c=1&qlt=95&w=146&h=112'></img> */}
+            <img src='https://up.yimg.com/ib/th?id=OIP.rHnTXUOFDRUQHEJ0hovG-gHaFs&pid=Api&rs=1&c=1&qlt=95&w=146&h=112'></img>
          </div>
             <a href='#' className='toggle-button'>
                 <span className='bar'></span>
